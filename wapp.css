@@ -1,0 +1,40 @@
+body{
+  background-color: rgba(4, 5, 8, 0.62);
+    font-family:Candara;
+    font-size: large;
+/*background-image: url("clear.jpg");*/
+}
+
+h1{
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+
+}
+.panel-footer{
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+.show{
+    color: white;
+text-align: center;
+
+}
+
+#sTemp{
+    font-size: 100px;
+}
+#sCity{
+    font-size: 50px;
+}
+#sWind{
+    font-size: 25px;
+
+}
+#sHumidity{
+    font-size: 20px;
+}
+
+#sDesc{
+    font-size: 35px;
+}
